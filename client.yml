@@ -1,0 +1,5 @@
+user:
+ role: defult
+ password: pass
+server:
+  port: 8085

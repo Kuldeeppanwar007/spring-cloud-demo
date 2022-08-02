@@ -1,0 +1,5 @@
+user:
+ role: Production
+ password: pass
+server:
+  port: 8080
